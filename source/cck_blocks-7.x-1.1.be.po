@@ -1,0 +1,59 @@
+# Belarusian translation of CCK Blocks (7.x-1.1)
+# Copyright (c) 2012 by the Belarusian translation team
+# Generated from files:
+#  cck_blocks/cck_blocks.info: n/a
+#  cck_blocks/cck_blocks.module: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CCK Blocks (7.x-1.1)\n"
+"POT-Creation-Date: 2012-12-06 04:08+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Belarusian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+
+#: cck_blocks.info:0
+msgid "CCK"
+msgstr "CCK"
+
+#: cck_blocks.module:142
+msgid "Disabled"
+msgstr "Выключана"
+
+#: cck_blocks.module:143
+msgid "Enabled"
+msgstr "Актывавана"
+
+#: cck_blocks.module:53
+msgid "Replacement patterns"
+msgstr "Замена шаблонаў"
+
+#: cck_blocks.module:13; cck_blocks.info:0
+msgid "CCK Blocks"
+msgstr ""
+
+#: cck_blocks.info:0
+msgid "Shows CCK fields as block."
+msgstr ""
+
+#: cck_blocks.module:138
+msgid "Provide block for this field"
+msgstr ""
+
+#: cck_blocks.module:28
+msgid "Field: @field "
+msgstr ""
+
+#: cck_blocks.module:56
+msgid "You may use the following replacement patterns in the block title."
+msgstr ""
+
+#: cck_blocks.module:140
+msgid ""
+"When enabled, this field becomes available as a block in the block "
+"admin page. Overridden by content-type-specific settings"
+msgstr ""
+
