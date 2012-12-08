@@ -29703,8 +29703,8 @@ Unless you know what you are doing, it is highly recommended that you prefix the
       <tuv lang="en">
         <seg>The style selected will be used on display, while the original image is retained. Styles may be configured in the &lt;a href="!url"&gt;Image styles&lt;/a&gt; administration area.</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Обраны стыль будзе адлюстраваны, а арыгінальны малюнак захаваны. Стылі можна сканфігураваць на старонцы &lt;a href="!url"&gt;Стылі Малюнкаў&lt;/a&gt; у адміністрацыйным блоку.</seg>
+      <tuv lang="be" changeid="alex" changedate="20121208T094413Z">
+        <seg>Абраны стыль будзе адлюстраваны, а арыгінальны малюнак захаваны. Стылі можна сканфігураваць на старонцы &lt;a href="!url"&gt;Стылі Малюнкаў&lt;/a&gt; у адміністрацыйным блоку.</seg>
       </tuv>
     </tu>
     <tu>
