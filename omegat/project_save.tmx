@@ -6263,6 +6263,14 @@ else {\r
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CCK Blocks</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T094134Z">
+        <seg>CCK блокі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cache blocks</seg>
       </tuv>
       <tuv lang="be">
